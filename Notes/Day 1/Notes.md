@@ -166,3 +166,190 @@ In summary, Android is a versatile and powerful mobile operating system that pow
 
 **Conclusion:**
 Android's journey from a small startup to the world's leading mobile operating system is a testament to its openness, flexibility, and innovation. With billions of devices running Android globally, it has revolutionized the way we communicate, work, and interact with technology, shaping the modern digital landscape.
+
+
+## OHA
+**OHA (Open Handset Alliance)**
+
+The Open Handset Alliance (OHA) is a consortium of technology companies that collaborate to develop open standards for mobile devices, with a particular focus on the Android operating system. Formed in 2007, OHA's mission is to promote innovation and openness in the mobile industry by creating an open-source platform for mobile devices.
+
+### Key Aspects of OHA:
+
+1. **Collaborative Development**: OHA members work together to develop and improve the Android operating system, contributing their expertise and resources to advance the platform.
+
+2. **Open Standards**: OHA advocates for open standards and open-source software, encouraging transparency, interoperability, and collaboration within the mobile ecosystem.
+
+3. **Support for Android Ecosystem**: OHA members support the Android ecosystem by developing compatible hardware, software, and services that enhance the user experience and drive innovation.
+
+4. **Promotion of Android Adoption**: OHA aims to promote the adoption of Android by device manufacturers, carriers, developers, and consumers, facilitating the growth and success of the platform.
+
+### OHA Members:
+
+OHA membership includes a diverse group of companies from various sectors of the technology industry, including:
+
+- Device manufacturers (e.g., Samsung, HTC, Motorola)
+- Chipset manufacturers (e.g., Qualcomm, MediaTek)
+- Mobile carriers (e.g., T-Mobile, Sprint, Vodafone)
+- Software companies (e.g., Google, Adobe, eBay)
+- Hardware component suppliers (e.g., Intel, Texas Instruments)
+
+### Achievements and Impact:
+
+Since its formation, OHA has played a significant role in the development and success of the Android platform, contributing to its widespread adoption and global dominance in the mobile market. Key achievements and impacts of OHA include:
+
+- Facilitating collaboration and innovation among member companies to advance the Android ecosystem.
+- Establishing Android as the world's leading mobile operating system, powering billions of devices worldwide.
+- Enabling a thriving ecosystem of apps, games, and services through the Google Play Store.
+- Driving technological advancements and new use cases for mobile devices, such as augmented reality, artificial intelligence, and IoT (Internet of Things) integration.
+
+In summary, the Open Handset Alliance (OHA) is a collaborative effort among technology companies to develop open standards for mobile devices, with a focus on the Android operating system. Through collective innovation and cooperation, OHA has played a pivotal role in shaping the mobile landscape and driving the success of Android as a leading platform for smartphones, tablets, wearables, and other connected devices.
+
+
+## Android Versions
+**Versions of Android with New Features**
+
+Android, like many software platforms, undergoes periodic updates and releases. Each new version typically brings improvements, new features, and bug fixes. Here's an overview of the major versions of Android, along with brief descriptions, release times, and notable new features introduced in each version:
+
+1. **Android 1.0 (no codename)**
+   - Release Date: September 23, 2008
+   - Description: Android 1.0 was the first commercial version of the Android operating system, introducing basic smartphone functionalities.
+   - Notable New Features: Basic smartphone features such as web browsing, email support, and access to Google services.
+
+2. **Android 1.1 (no codename)**
+   - Release Date: February 9, 2009
+   - Description: Android 1.1 was a minor update to Android 1.0, focused on bug fixes and minor enhancements.
+   - Notable New Features: Minor improvements and bug fixes.
+
+3. **Android 1.5 (Cupcake)**
+   - Release Date: April 27, 2009
+   - Description: Android 1.5, codenamed Cupcake, introduced significant new features and improvements to the Android platform.
+   - Notable New Features: On-screen keyboard, support for third-party widgets, video recording, and copy-paste functionality.
+
+4. **Android 1.6 (Donut)**
+   - Release Date: September 15, 2009
+   - Description: Android 1.6, codenamed Donut, focused on enhancing the user experience and adding new features to the Android platform.
+   - Notable New Features: Improved Android Market, expanded search functionality, support for different screen sizes and resolutions.
+
+5. **Android 2.0/2.1 (Eclair)**
+   - Release Date: October 26, 2009
+   - Description: Android 2.0 (Eclair) and 2.1 introduced significant improvements and new features, further enhancing the Android experience.
+   - Notable New Features: Support for multiple accounts and Exchange email, enhanced camera features, Google Maps Navigation.
+
+6. **Android 2.2 (Froyo)**
+   - Release Date: May 20, 2010
+   - Description: Android 2.2, codenamed Froyo, focused on performance optimizations and introducing new features to the platform.
+   - Notable New Features: Performance optimizations, support for Adobe Flash in the web browser, portable Wi-Fi hotspot functionality.
+
+7. **Android 2.3 (Gingerbread)**
+   - Release Date: December 6, 2010
+   - Description: Android 2.3, codenamed Gingerbread, brought improvements to the user interface and introduced new features and APIs.
+   - Notable New Features: Enhanced user interface, support for Near Field Communication (NFC), improved power management.
+
+8. **Android 3.0/3.1/3.2 (Honeycomb)**
+   - Release Date: February 22, 2011
+   - Description: Android 3.0 (Honeycomb) was a tablet-focused release, introducing a redesigned user interface optimized for larger screens.
+   - Notable New Features: Tablet-focused user interface, support for multicore processors, improved multitasking.
+
+9. **Android 4.0 (Ice Cream Sandwich)**
+   - Release Date: October 18, 2011
+   - Description: Android 4.0, codenamed Ice Cream Sandwich, unified the smartphone and tablet versions of Android, introducing a new design language and features.
+   - Notable New Features: Holo theme, improved multitasking, support for face unlock.
+
+10. **Android 4.1/4.2/4.3 (Jelly Bean)**
+    - Release Date: July 9, 2012
+    - Description: Android 4.1 (Jelly Bean) introduced smoother UI performance with Project Butter, expandable notifications, and Google Now.
+    - Notable New Features: Project Butter for smoother UI performance, Google Now, expandable notifications.
+
+11. **Android 4.4 (KitKat)**
+    - Release Date: October 31, 2013
+    - Description: Android 4.4, codenamed KitKat, focused on optimizing performance and improving memory usage.
+    - Notable New Features: Performance optimizations, system-wide emoji support, redesigned interface.
+
+12. **Android 5.0/5.1 (Lollipop)**
+    - Release Date: November 12, 2014
+    - Description: Android 5.0 (Lollipop) introduced the Material Design language, a new runtime environment (ART), and improved security features.
+    - Notable New Features: Material Design, ART runtime, improved security with device encryption.
+
+13. **Android 6.0 (Marshmallow)**
+    - Release Date: October 5, 2015
+    - Description: Android 6.0 (Marshmallow) focused on enhancing user experience with features like app permissions, Google Now on Tap, and a new battery-saving feature called Doze.
+    - Notable New Features: App permissions, Google Now on Tap, Doze battery-saving feature.
+
+14. **Android 7.0/7.1 (Nougat)**
+    - Release Date: August 22, 2016
+    - Description: Android 7.0 (Nougat) introduced split-screen multitasking, enhanced notifications, and improved performance.
+    - Notable New Features: Split-screen multitasking, enhanced notifications, improved performance.
+
+15. **Android 8.0/8.1 (Oreo)**
+    - Release Date: August 21, 2017
+    - Description: Android 8.0 (Oreo) introduced picture-in-picture mode, notification dots, and Autofill framework.
+    - Notable New Features: Picture-in-picture mode, notification dots, Autofill framework.
+
+16. **Android 9 (Pie)**
+    - Release Date: August 6, 2018
+    - Description: Android 9 (Pie) introduced gesture-based navigation, Digital Wellbeing features, adaptive battery and brightness, and improved privacy controls.
+    - Notable New Features: Gesture-based navigation, Digital Wellbeing, adaptive battery and brightness.
+
+17. **Android 10**
+    - Release Date: September 3, 2019
+    - Description: Android 10 introduced a system-wide dark mode, enhanced privacy controls, gesture navigation, and improved support for foldable and 5G devices.
+    - Notable New Features: System-wide dark mode, enhanced privacy controls, gesture navigation.
+
+18. **Android 11**
+    - Release Date: September 8, 2020
+    - Description: Android 11 focused on improving communication, privacy, and device control with features such as chat bubbles, one-time permissions, and media controls.
+    - Notable New Features: Chat bubbles, one-time permissions, media controls.
+
+19. **Android 12**
+    - Release Date: October 4, 2021
+    - Description: Android 12 introduced a major visual overhaul with Material You design language, enhanced privacy indicators, and improved performance.
+    - Notable New Features: Material You design language, enhanced privacy indicators, improved performance.
+    
+20. **Android 13**
+    - Release Date: August 15, 2022
+    - Description: Android 13 builds on the tablet optimizations introduced in Android 12 and the 12L feature drop—including optimizations for the system UI, better multitasking, and improved compatibility modes.
+
+21. **Android 14**
+    - Release Date: October 4, 2023
+    - Description:  There is a revamped battery saving mode toggle, some home screen pop-up changes, share sheet enhancements, a new monochromatic theme, and more.
+
+
+These are the major versions of Android, each bringing its own set of features, enhancements, and improvements to the platform. Google continues to develop and release new versions of Android to provide users with the latest innovations and technologies in mobile computing.
+
+
+## Extra Terms
+**Push Notification:**
+
+A push notification is a message or alert that pops up on a mobile device from an app or a website, even if the app is not currently running. It's a way for apps to communicate with users in a timely and relevant manner, providing updates, reminders, or notifications about new content or events.
+
+**How Push Notifications Work:**
+- When an app wants to send a push notification to a user's device, it sends a message to a centralized server (usually operated by the app developer or a third-party service).
+- The server then delivers the notification to the user's device, which displays the message to the user.
+- Push notifications can include text, images, sounds, or even interactive elements, depending on the capabilities of the device and the app.
+
+**Uses of Push Notifications:**
+- News alerts and updates
+- Social media notifications (e.g., likes, comments, friend requests)
+- Reminders and alarms
+- App-specific updates (e.g., sports scores, flight status, package deliveries)
+
+**NFC (Near Field Communication):**
+
+NFC is a short-range wireless technology that allows devices to communicate with each other when they are in close proximity, typically within a few centimeters. It enables contactless data exchange, making it possible to quickly and securely transfer information between devices, such as smartphones, tablets, and NFC-enabled tags or cards.
+
+**How NFC Works:**
+- NFC operates on the principle of electromagnetic induction, where two NFC-enabled devices generate magnetic fields that allow them to communicate when they are brought close together.
+- NFC devices can operate in three modes: reader/writer mode, peer-to-peer mode, and card emulation mode.
+- In reader/writer mode, an NFC-enabled device can read information from NFC tags or cards, such as electronic payment cards or smart posters.
+- In peer-to-peer mode, two NFC-enabled devices can exchange data, such as contact information, photos, or files, by tapping them together.
+- In card emulation mode, an NFC-enabled device can simulate an NFC tag or card, allowing it to be used for contactless payments, access control, or ticketing.
+
+**History:**
+
+Push notifications and NFC were both explained and introduced in earlier versions of the Android operating system:
+
+- **Push notifications** were explained and introduced in Android 2.2 (Froyo), released on May 20, 2010. This version of Android introduced support for push notifications, allowing apps to send notifications to users' devices even when the apps were not actively running.
+  
+- **NFC** was explained and introduced in Android 2.3 (Gingerbread), released on December 6, 2010. This version of Android introduced support for NFC technology, enabling devices to read NFC tags, exchange data with other NFC-enabled devices, and emulate NFC cards for contactless payments and other applications.
+
+
