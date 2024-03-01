@@ -40,7 +40,7 @@ Android Studio is the official IDE for Android app development, provided by Goog
    - Visit the Android Studio download page (https://developer.android.com/studio).
    - Download the Linux version of Android Studio.
    - Extract the downloaded ZIP file to a desired location.
-   - Open the "android-studio" folder and run the "studio.sh" script.
+   - Open the "bin" folder in "android-studio" folder and run the "studio.sh" script.
    - Follow the on-screen instructions to complete the installation.
 
 **Building a Test Project**:
@@ -78,9 +78,7 @@ An Android Virtual Device (AVD) is an emulator configuration that simulates an A
 
 **Languages Used in Android Development**:
 
-The
-
- primary programming languages used in Android app development are:
+The primary programming languages used in Android app development are:
 
 1. **Java**: Java is the traditional programming language used for Android app development. It is a popular, object-oriented language known for its simplicity, readability, and extensive ecosystem of libraries and frameworks.
 
