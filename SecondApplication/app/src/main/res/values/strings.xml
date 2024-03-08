@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Second Application</string>
+    <string name="inc">+</string>
+    <string name="dec">-</string>
+    <string name="reset">Reset</string>
+    <string name="start">0</string>
+    <string name="image_text">Giga Chad</string>
+    <string name="user">Average User</string>
+    <string name="count">Count String</string>
+</resources>
