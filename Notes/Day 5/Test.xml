@@ -1,0 +1,31 @@
+<!-- <friendsList>
+    <friends>
+        <name>Alex</name>
+    </friends>
+    <friends>
+        <name>Tamori</name>
+    </friends>
+    <friends>
+        <name>Maven</name>
+    </friends>
+    <bestFriend>
+        <name>Gavin</name>
+    </bestFriend>
+</friendsList> -->
+
+
+<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Test.xsd">
+  <book category="fiction">
+    <title lang="en">Harry Potter</title>
+    <author>J.K. Rowling</author>
+    <year>2005</year>
+    <price>29.99</price>
+  </book>
+  <book category="non-fiction">
+    <title lang="en">The Elements of Style</title>
+    <author>William Strunk Jr.</author>
+    <year>1999</year>
+    <price>9.99</price>
+  </book>
+</bookstore>
